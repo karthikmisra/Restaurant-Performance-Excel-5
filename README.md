@@ -25,6 +25,7 @@ This project evaluates comprehensive restaurant order data to uncover key operat
 * **Key Columns:** `order_details_id`, `order_id`, `order_date`, `order_time`, `item_id`, `Item_Name`, `Category`, `Price`
 
 ## 🖥️ Screenshots & Working View
+1.Working Dashboard : 
 
 ### 1. Full Dashboard Layout
 > *A comprehensive view of the 4 KPI blocks, 4 charts, and master slicer controls.*  
