@@ -25,14 +25,11 @@ This project evaluates comprehensive restaurant order data to uncover key operat
 * **Key Columns:** `order_details_id`, `order_id`, `order_date`, `order_time`, `item_id`, `Item_Name`, `Category`, `Price`
 
 ## 🖥️ Screenshots & Working View
-1.Working Dashboard : 
+1.Working Dashboard : https://github.com/karthikmisra/Restaurant-Performance-Excel-5/blob/main/Screenshot%20%20of%20Working%20Dashboard.png
 
 ### 1. Full Dashboard Layout
 > *A comprehensive view of the 4 KPI blocks, 4 charts, and master slicer controls.*  
-> ![Working Dashboard View](dashboard.png)
-> *(Working Screenshot Link: [View Live Asset Preview](dashboard.png))*
-
----
+1.Dashboard Preview Link : 
 
 ## ⚙️ How to Use This Repository
 1. Download the `Restaraunt Chain Dataset.xlsx` file.
