@@ -21,11 +21,8 @@ This project evaluates comprehensive restaurant order data to uncover key operat
 * **Master Slicers:** Connected interactive filter buttons allowing users to seamlessly slice all charts and KPIs by category and date.
 
 ## 📁 Dataset Source & Files
-* **Dataset Name:** `Restaraunt Chain Dataset.xlsx`
-* **Data Source Link:** [Access/Download Dataset Here](Restaraunt Chain Dataset.xlsx) *(or link your source repository file)*
+* **Data Source Link:https://github.com/karthikmisra/Restaurant-Performance-Excel-5/blob/main/Restaraunt%20Chain%20Dataset.xlsx
 * **Key Columns:** `order_details_id`, `order_id`, `order_date`, `order_time`, `item_id`, `Item_Name`, `Category`, `Price`
-
----
 
 ## 🖥️ Screenshots & Working View
 
